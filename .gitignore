@@ -1,0 +1,8 @@
+*.jar
+*.class
+*.war
+*.ear
+*.lst
+**/target
+**/build
+**/bin
